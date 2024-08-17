@@ -9,12 +9,14 @@ This project includes a frontend application built with React and Vite, and a ba
 ### Frontend
 
 1. **Navigate to the frontend directory**
+   ```bash
    cd Frontend
    npm install
    npm run dev
 
    
-2. **Navigate to the backend directory
+3. **Navigate to the backend directory
+   ```bash
    cd Backend
    npm install
    npm run dev
